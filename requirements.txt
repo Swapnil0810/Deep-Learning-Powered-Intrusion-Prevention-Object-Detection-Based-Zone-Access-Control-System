@@ -1,0 +1,21 @@
+#numpy==1.21.6
+filterpy==1.4.5
+Flask==2.2.2
+gdown==4.5.1
+#matplotlib==3.5.3
+# onnxruntime==1.13.1
+#opencv_python==4.6.0.66
+#pandas==1.1.5
+#PyYAML==6.0
+requests==2.28.1
+# scikit-image==0.19.2
+#scipy==1.5.4
+seaborn
+# nebullvm==0.4.3
+# deepsparse==1.3.1
+flask_cors
+# torch==1.12.1+cpu torchvision==0.13.1+cpu torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cpu
+cvzone==1.5.6
+# pip wheel -r requirements.txt -w .\outputdir
+shapely==2.0.1
+sourcedefender==10.0.13
